@@ -63,14 +63,15 @@ a {
 #about {
  
   background: url(../img/b4.jpg) no-repeat center center;
-  
   background-size: cover;
+  width: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   background-position:top center;
-  height: 100vh;   
+     
 }
 .about__info {
-  width: 200px;
-  height: 200px;
-  border-radius: 5%;
+  width: 5px;
+  height: 5px;
+  border: #f3c8d9;
 }
