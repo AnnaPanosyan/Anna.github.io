@@ -43,7 +43,7 @@ a {
   flex-direction: column;
   margin: 21% 42%;
   font-size: 40px;
-  color: #25050cf1;
+  color: rgb(39, 39, 61);
 }
 .name:hover{
   font-size: 50px;
