@@ -91,7 +91,7 @@ header {
 .name2{
  font-size: 200%;
  color: rgb(4, 25, 71);
- margin: 20px;
+ margin: 40px;
 }
 .icon ul{
 display: flex;  
@@ -101,5 +101,8 @@ margin: 10px;
 .icon ul li{
   padding:  15px;
   margin: 0 30px;
+}
+.text{
+  margin:0 40px;
 }
 
