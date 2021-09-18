@@ -81,6 +81,8 @@ header {
 }
 .page2 {
   width: 58%;
+  display: flex;
+  flex-direction: row;
 }
 
 .pic1{
@@ -90,9 +92,12 @@ header {
  font-size: 200%;
  color: rgb(4, 25, 71);
 }
-.icons{
+.icon ul{
 display: flex;  
 flex-direction: row;
-
-  
+margin: 15px;
 }
+.icon ul li{
+  margin: 10px 10px;
+}
+
