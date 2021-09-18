@@ -106,3 +106,21 @@ margin: 10px;
   margin:0 40px;
 }
 
+#projects {
+  background: url(../img/b7.jpg) no-repeat top center;
+  background-size: cover;
+  height: 100vh;
+  padding: 100px 0;
+  position: relative;
+}
+.pro{
+  font-family: "Dancing Script", cursive;
+  font: larger;
+  font-size: 50px;
+  margin:0 30%;
+  font-style: italic;
+  color: rgba(35, 65, 100);
+}
+.pro:hover{
+  color: blue;
+}
