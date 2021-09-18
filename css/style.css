@@ -89,9 +89,13 @@ header {
   width:45%;
 }
 .name2{
- font-size: 200%;
+ font-size: 300%;
  color: rgb(4, 25, 71);
  margin: 40px;
+ font-style: inherit;
+}
+.text {
+  font-size: x-large;
 }
 .icon ul{
 display: flex;  
@@ -101,6 +105,9 @@ margin: 10px;
 .icon ul li{
   padding:  15px;
   margin: 0 30px;
+}
+.icon ul li:hover{
+font-size: 70%;
 }
 .text{
   margin:0 40px;
