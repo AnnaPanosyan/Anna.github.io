@@ -105,6 +105,7 @@ margin: 10px;
 .icon ul li{
   padding:  15px;
   margin: 0 30px;
+  cursor: pointer;
 }
 .icon ul li:hover{
 font-size: 70%;
@@ -120,7 +121,7 @@ font-size: 70%;
   padding: 100px 0;
   position: relative;
 }
-.pro{
+ .pro {
   font-family: "Dancing Script", cursive;
   font: larger;
   font-size: 50px;
@@ -128,7 +129,6 @@ font-size: 70%;
   font-style: italic;
   color: rgba(35, 65, 100);
 }
-
 .pro:hover{
   color: blue;
 }
